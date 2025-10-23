@@ -59,3 +59,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Aplikasi web UKMK-Kristen dibuat untuk membantu pengelolaan dan penjadwalan kegiatan di UKM Kerohanian Kristen Universitas Jember. Proyek ini dibangun menggunakan Laravel dengan tampilan yang dibuat menggunakan Blade Template Engine dan , sehingga menghasilkan antarmuka yang rapi dan responsif. Aplikasi ini memiliki fitur seperti dashboard anggota, jadwal piket bulanan, serta profil pengguna, dengan komponen seperti navbar dan footer yang dapat digunakan ulang di seluruh halaman.
